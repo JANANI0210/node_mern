@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon pathModule.js"
+    "start": "nodemon FileSync.js"
   },
   "keywords": [],
   "author": "",
