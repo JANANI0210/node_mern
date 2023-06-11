@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon osModule.js"
+    "start": "nodemon pathModule.js"
   },
   "keywords": [],
   "author": "",
